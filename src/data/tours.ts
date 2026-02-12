@@ -196,7 +196,7 @@ export const destinations = [
     id: 'codru',
     name: 'Codru',
     description: 'Inima verde a Moldovei, cu păduri seculare, mănăstiri istorice și cele mai renumite crame subterane.',
-    attractions: ['Cricova', 'Mileștii Mici', 'Orheiul Vechi', 'Căpriana'],
+    attractions: ['Cricova',  'Orheiul Vechi', 'Căpriana'],
     tourCount: 12,
   },
   {
@@ -210,7 +210,7 @@ export const destinations = [
     id: 'soroca',
     name: 'Soroca',
     description: 'Cetatea medievală, canioane spectaculoase și tradiții ancestrale în nordul Moldovei.',
-    attractions: ['Cetatea Soroca', 'Canionul Duruitoarea', 'Lumânarea Recunoștinței'],
+    attractions: ['Cetatea Soroca', 'Canionul Duruitoarea'],
     tourCount: 5,
   },
   {
