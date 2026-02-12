@@ -22,7 +22,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/moldova-trails">
         <Navbar />
         <Routes>
           <Route path="/" element={<Index />} />

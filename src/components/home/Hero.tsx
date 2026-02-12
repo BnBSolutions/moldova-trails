@@ -87,7 +87,7 @@ const Hero = () => {
           className="flex flex-col sm:flex-row gap-4"
         >
           <Link to="/tours">
-            <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 rounded-full px-10 py-6 text-lg font-semibold">
+            <Button size="lg" className="bg-accen/90 text-accent-foreground hover:bg-accent rounded-full px-10 py-6 text-lg font-semibold">
               Vezi Tururi
             </Button>
           </Link>
